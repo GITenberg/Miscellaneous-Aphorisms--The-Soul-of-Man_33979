@@ -1,0 +1,32 @@
+_repo: Miscellaneous-Aphorisms--The-Soul-of-Man_33979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2010-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcc 'HX'
+- !lcsh 'Aphorisms and apothegms'
+- !lcc 'PR'
+title: Miscellaneous Aphorisms; The Soul of Man
+url: http://www.gutenberg.org/ebooks/33979
